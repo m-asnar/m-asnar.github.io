@@ -1,0 +1,76 @@
+body {
+    background-color: #ffe5ae;
+    background-image: url("./patterns/circle-blues.webp");
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+/*LINKS*/
+
+a {
+    outline-color: transparent;
+}
+
+a:link {
+    color: #6900ff;
+}
+
+a:visited {
+    color: #a5c300;
+}
+
+a:focus {
+    text-decoration: none;
+    background: #bae498;
+}
+
+a:hover {
+    text-decoration: none;
+    background: #cdfeaa;
+}
+
+a:active {
+    background: #6900ff;
+    color: #cdfeaa;
+}
+
+/*HEADERS*/
+
+h1 {
+    color: black
+}
+
+h3 {
+    color: black
+}
+
+p {
+    color: black
+}
+
+/*CUSTOM ELEMENTS*/
+
+.topblock {
+    color: white;
+    background-color: #2b3784;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 10px
+}
+
+.block1 {
+    color: white;
+    background-color: #b11313;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 10px
+}
+
+.block2 {
+    color: black;
+    background-color: #447bbe;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 10px
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"html.format.enable": true,
+		"html.format.wrapLineLength": 120,
+		"editor.wordWrap": "off"
+
+	}
+}
