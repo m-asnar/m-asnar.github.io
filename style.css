@@ -1,6 +1,5 @@
 body {
-    background-color: #ffe5ae;
-    background-image: url("./patterns/circle-blues.webp");
+    background-color: #2e3436;
     color: rgb(0, 0, 0);
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
@@ -13,63 +12,51 @@ a {
 }
 
 a:link {
-    color: #6900ff;
+    color: #c17d11;
 }
 
 a:visited {
-    color: #a5c300;
+    color: #d3994d;
 }
 
 a:focus {
     text-decoration: none;
-    background: #bae498;
+    background: #e3b57f;
 }
 
 a:hover {
     text-decoration: none;
-    background: #cdfeaa;
+    background: #e3b57f;
 }
 
 a:active {
     background: #6900ff;
-    color: #cdfeaa;
+    color: #e3b57f;
 }
 
 /*HEADERS*/
 
-h1 {
-    color: black
-}
-
-h3 {
-    color: black
-}
-
-p {
-    color: black
-}
-
 /*CUSTOM ELEMENTS*/
 
 .topblock {
-    color: white;
-    background-color: #2b3784;
+    color: #cccccc;
+    background-color: #2e3436;
     padding: 20px;
     border: 10px solid black;
     margin: 10px
 }
 
 .block1 {
-    color: white;
-    background-color: #b11313;
+    color: #cccccc;
+    background-color: #3d3b35;
     padding: 20px;
     border: 10px solid black;
     margin: 10px
 }
 
 .block2 {
-    color: black;
-    background-color: #447bbe;
+    color: #cccccc;
+    background-color: #504e49;
     padding: 20px;
     border: 10px solid black;
     margin: 10px
